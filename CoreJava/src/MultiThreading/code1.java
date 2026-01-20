@@ -2,7 +2,7 @@ package MultiThreading;
 
 public class code1 {
 	public static void main(String[] args) {
-		
+
 //		// object create
 //		MyThread t1 = new MyThread(); // process 
 //		t1.start();
