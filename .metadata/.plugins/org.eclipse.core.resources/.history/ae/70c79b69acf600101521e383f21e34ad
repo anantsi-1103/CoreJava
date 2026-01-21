@@ -1,0 +1,13 @@
+package Java8Features;
+
+public class staticClass {
+
+}
+
+
+interface A{
+	static void sayHey() {
+		System.out.println("heyyy");
+	}
+}
+

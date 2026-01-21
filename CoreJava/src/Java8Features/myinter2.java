@@ -1,0 +1,6 @@
+package Java8Features;
+
+public interface myinter2 extends Myinterface {
+
+	public void sayhi1();
+}

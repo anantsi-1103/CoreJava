@@ -1,0 +1,8 @@
+package Java8Features;
+
+@FunctionalInterface
+public interface Myinterface {
+	public void sayhi();
+
+	public void sayhiw();
+}

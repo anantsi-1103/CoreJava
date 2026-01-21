@@ -19,7 +19,6 @@
     <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.security.DrbgParameters.NextBytes"/>
     <fullyQualifiedTypeName name="jdk.dynalink.beans.StaticClass"/>
     <fullyQualifiedTypeName name="javax.naming.directory.AttributeModificationException"/>
@@ -36,15 +35,22 @@
     <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="ExceptionHandling.throW"/>
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
-    <fullyQualifiedTypeName name="java.io.FileReader"/>
     <fullyQualifiedTypeName name="java.nio.file.ReadOnlyFileSystemException"/>
     <fullyQualifiedTypeName name="ExceptionHandling.throwss"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="java.security.PublicKey"/>
     <fullyQualifiedTypeName name="java.lang.Void"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="MultiThreading.MyRunnable"/>
     <fullyQualifiedTypeName name="MultiThreading.MyThread"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="MultiThreading.Mythread"/>
+    <fullyQualifiedTypeName name="sun.java2d.marlin.DMarlinRenderingEngine"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="MultiThreading.Text"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="jdk.internal.icu.util.CodePointTrie.Fast16"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="sun.text.resources.cldr.ext.FormatData_ar_QA"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,10 @@
+package Java8Features;
+
+public class staticClass {
+
+}
+
+
+interface A{
+	
+}

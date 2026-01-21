@@ -1,0 +1,17 @@
+package Java8Features;
+
+import java.lang.classfile.CodeModel;
+
+public interface Myinterface {
+	public void sayhi();
+
+	public void sayhiw();
+	
+	static void bye() {
+		
+	}
+	
+	default void hey() {
+		
+	}
+}

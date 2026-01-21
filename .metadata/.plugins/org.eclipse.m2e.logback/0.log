@@ -21,3 +21,4 @@
 2026-01-19 13:26:06,550 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2026-01-19 13:26:23,338 [Worker-2: Deferred Early Start] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - ex-0000000001 recoverable I/O exception (java.net.SocketException) caught when sending request to https://www.eclipse.org:443;request will be automatically re-executed in 0 MILLISECONDS (exec count 2)
 2026-01-20 13:47:22,927 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2026-01-21 14:54:57,210 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

@@ -1,0 +1,14 @@
+package Java8Features;
+
+public class defaultClass {
+	public static void main(String[] args) {
+		
+	}
+}
+
+
+interface Parent{
+	default void sayhey() {
+		System.out.println("parent heyy");
+	}
+}
