@@ -1,0 +1,11 @@
+package Java8Features;
+
+public class allFunc {
+	public static void main(String[] args) {
+		// predicate -> true/false
+		// function -> logic building krne k liye
+		// consumer -> consume and store krke rkhna
+		// supplier -> supply
+
+	}
+}

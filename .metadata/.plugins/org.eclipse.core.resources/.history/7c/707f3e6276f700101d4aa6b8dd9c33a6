@@ -1,0 +1,16 @@
+package Java8Features;
+
+import java.time.LocalDate;
+import java.time.LocalTime;
+
+public class dateTimeAPI {
+	public static void main(String[] args) {
+		LocalDate lc = LocalDate.now();
+		System.out.println(lc);
+
+		LocalTime l1 = LocalTime.now();
+		System.out.println(l1);
+		
+		
+	}
+}

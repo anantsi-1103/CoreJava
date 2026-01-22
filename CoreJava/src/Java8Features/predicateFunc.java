@@ -1,7 +1,5 @@
 package Java8Features;
 
-import java.util.function.Predicate;
-
 public class predicateFunc {
 	public static void main(String[] args) {
 		//

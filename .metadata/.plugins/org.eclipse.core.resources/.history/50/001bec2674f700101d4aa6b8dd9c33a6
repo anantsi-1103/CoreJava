@@ -1,0 +1,12 @@
+package Java8Features;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class references {
+	public static void main(String[] args) {
+		List<String> students = Arrays.asList("Swastik" , "Gaurav" , "Ashutosh");
+		
+	}
+}
+

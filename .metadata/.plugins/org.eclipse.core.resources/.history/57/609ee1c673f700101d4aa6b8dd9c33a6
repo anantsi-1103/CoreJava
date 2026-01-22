@@ -1,0 +1,25 @@
+package Java8Features;
+
+import java.util.function.Consumer;
+import java.util.function.Function;
+import java.util.function.Predicate;
+import java.util.function.Supplier;
+
+public class allFunc {
+	public static void main(String[] args) {
+		// predicate -> true/false
+		// function -> logic building krne k liye
+		// consumer -> consume and store krke rkhna
+		// supplier -> supply
+
+		Predicate<Integer> pred = x -> x % 2 == 0;
+		Function<Integer, Integer> func = x -> x * x;
+		Consumer<Integer> consume = x -> System.out.println(x);
+		Supplier<Integer> sup = () -> 50;
+
+		if (pred.test(sup.get())) {
+			consume.accept(func.apply(sup.get()));
+		}
+
+	}
+}

@@ -1,0 +1,17 @@
+package Java8Features;
+
+import java.util.function.Predicate;
+
+public class allFunc {
+	public static void main(String[] args) {
+		// predicate -> true/false
+		// function -> logic building krne k liye
+		// consumer -> consume and store krke rkhna
+		// supplier -> supply
+
+		Predicate<Integer> pred = x -> x % 2 == 0;
+		Function<Integer,Integer> func = x -> x * x ;
+		
+
+	}
+}
