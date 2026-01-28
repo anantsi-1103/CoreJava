@@ -1,0 +1,12 @@
+package Project;
+
+public class CarRental {
+
+}
+
+class Car{
+	private String carID;
+	private String brand;
+	private String model;
+	private double basePricePerDay;
+}

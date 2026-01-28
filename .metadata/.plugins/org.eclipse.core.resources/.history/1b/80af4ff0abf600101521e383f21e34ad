@@ -1,7 +1,0 @@
-package Java8Features;
-
-
-@FunctionalInterface
-public interface myinter2 extends Myinterface {
-
-}
